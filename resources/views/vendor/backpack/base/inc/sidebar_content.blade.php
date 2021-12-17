@@ -1,5 +1,5 @@
 <!-- This file is used to store sidebar items, starting with Backpack\Base 0.9.0 -->
 <li class="nav-item"><a class="nav-link" href="{{ backpack_url('dashboard') }}"><i class="la la-home nav-icon"></i> {{ trans('backpack::base.dashboard') }}</a></li>
-<li class='nav-item'><a class='nav-link' href='{{ backpack_url('computer') }}'><i class='nav-icon la la-question'></i> Computers</a></li>
-<li class='nav-item'><a class='nav-link' href='{{ backpack_url('province') }}'><i class='nav-icon la la-question'></i> Provinces</a></li>
-<li class='nav-item'><a class='nav-link' href='{{ backpack_url('district') }}'><i class='nav-icon la la-question'></i> Districts</a></li>
+<li class='nav-item'><a class='nav-link' href='{{ backpack_url('computer') }}'><i class='nav-icon la la-question'></i> Kompýuterlar</a></li>
+<li class='nav-item'><a class='nav-link' href='{{ backpack_url('district') }}'><i class='nav-icon la la-question'></i> Prokuraturalar</a></li>
+<li class='nav-item'><a class='nav-link' href='{{ backpack_url('province') }}'><i class='nav-icon la la-question'></i> Welaýatlar</a></li>

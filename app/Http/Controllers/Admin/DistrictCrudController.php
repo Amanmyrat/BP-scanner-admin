@@ -44,7 +44,7 @@ class DistrictCrudController extends CrudController
         $this->crud->setColumns([
             [
                 'name'  => 'name',
-                'label' => "Etrap",
+                'label' => "Prokuratura",
                 'type'  => 'text',
             ],
            
@@ -88,7 +88,7 @@ class DistrictCrudController extends CrudController
         $this->crud->addFields([
             [
                 'name'  => 'name',
-                'label' => "Etrap",
+                'label' => "Prokuratura",
                 'type'  => 'text',
             ],
             
